@@ -1,5 +1,4 @@
-# CY
- Data analysis profile
+Data analysis profile
 
 儀表板概況
 這個HR分析儀表板由Cheng Chien Yun創建，提供了企業人力資源管理的關鍵指標和視覺化分析，主要聚焦於員工留任和離職分析。
